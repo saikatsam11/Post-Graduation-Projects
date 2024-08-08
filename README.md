@@ -1,4 +1,4 @@
-# Bivariate Composite Model constructed via Joe copula for modeling claim costs
+# Advanced Risk Modeling for Insurance Claims
 
 
 
