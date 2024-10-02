@@ -1,4 +1,4 @@
-# Advanced Bivvariate Risk Modeling for Insurance Claims
+# Advanced Bivariate Risk Modeling for Insurance Claims
 
 
 
